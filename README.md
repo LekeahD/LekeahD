@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LekeahD
-- 👀 I’m interested in building up my bioinformatics skills, working with environmental data, and cnotributing to open science and science literacy.
+- 👀 I’m interested in building up my bioinformatics skills, working with environmental data, and contributing to open science and science literacy.
 - 🌱 I’m currently learning about nematode microbiomes and microbiome datasets
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
